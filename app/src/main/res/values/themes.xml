@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Sms" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#1A56DB</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#DCE6FF</item>
+        <item name="colorOnPrimaryContainer">#00164A</item>
+        <item name="colorSecondaryContainer">#E3E8F5</item>
+        <item name="colorOnSecondaryContainer">#0F1B3D</item>
+        <item name="colorSurface">#F7F8FC</item>
+        <item name="colorOnSurface">#1A1C22</item>
+        <item name="colorSurfaceVariant">#E6E8F0</item>
+        <item name="colorOnSurfaceVariant">#444A5A</item>
+        <item name="colorSurfaceContainerHighest">#EAECF5</item>
+        <item name="android:colorBackground">#F7F8FC</item>
+    </style>
+
+    <style name="Theme.Sms" parent="Base.Theme.Sms" />
+</resources>
